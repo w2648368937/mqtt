@@ -1,5 +1,5 @@
 {
-  "name": "simps/mqtt",
+  "name": "w2648368937/mqtt",
   "description": "MQTT Protocol Analysis and Coroutine Client for PHP",
   "keywords": [
     "php",
@@ -16,8 +16,8 @@
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Lu Fei",
-      "email": "lufei@simps.io"
+      "name": "LiZi",
+      "email": "2648368937@qq.com"
     }
   ],
   "require": {
